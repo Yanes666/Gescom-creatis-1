@@ -6,5 +6,5 @@
    3. Copiez "Project URL" et "anon public key" ci-dessous
    ============================================================ */
 
-const SUPABASE_URL      = "https://VOTRE-ID.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.VOTRE-CLE-ANON";
+const SUPABASE_URL      = https://ysaxtlvogxktuhqwxuvi.supabase.co;
+const SUPABASE_ANON_KEY = sb_publishable_pbxK9kfAXotZwxsSY5fC2g_UI94XI4y;
